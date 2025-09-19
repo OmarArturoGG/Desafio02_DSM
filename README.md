@@ -4,9 +4,8 @@
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/6bqgJ6g.gif" alt="Computadora Animada" />
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" alt="Computadora con código" width="400"/>
 </p>
-
 
 
 
