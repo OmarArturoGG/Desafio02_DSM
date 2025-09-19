@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" alt="Computadora con código" width="400"/>
+  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" alt="Laptop animada" width="400"/>
 </p>
 
 
