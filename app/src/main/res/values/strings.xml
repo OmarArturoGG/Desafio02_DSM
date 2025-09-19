@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">Desafio02</string>
+
+
+    <string name="hint_email">Correo electrónico</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="btn_login">Iniciar sesión</string>
+    <string name="btn_go_register">Crear cuenta</string>
+    <string name="btn_register">Registrar</string>
+
+    <string name="hint_name">Nombre</string>
+    <string name="fab_add_product">Agregar producto</string>
+
+    <string name="btn_products">Productos</string>
+    <string name="btn_clients">Clientes</string>
+    <string name="btn_sales">Ventas</string>
+    <string name="btn_logout">Cerrar Sesión</string>
+
+
+    <string name="sale_client">Cliente</string>
+    <string name="sale_total">Total</string>
+    <string name="sale_date">Fecha</string>
+
+
+    <string name="product_name">Nombre del producto</string>
+    <string name="product_description">Descripción</string>
+    <string name="product_price">Precio</string>
+
+
+
+
+    <string name="label_name">Nombre</string>
+    <string name="label_email">Correo</string>
+    <string name="label_phone">Teléfono</string>
+
+
+
+
+    <string name="select_client">Seleccionar Cliente</string>
+    <string name="select_products">Seleccionar Productos</string>
+    <string name="btn_save_sale">Guardar Venta</string>
+
+    <string name="btn_add_product">Agregar producto</string>
+    <string name="hint_product_name">Nombre del producto</string>
+    <string name="hint_product_description">Descripción</string>
+    <string name="hint_product_price">Precio</string>
+    <string name="hint_product_stock">Stock</string>
+    <string name="btn_register_sale">Registrar nueva venta</string>
+
+
+
+    <string name="btn_add_client">Agregar cliente</string>
+    <string name="hint_client_name">Nombre</string>
+    <string name="hint_client_email">Correo</string>
+    <string name="hint_client_phone">Teléfono</string>
+
+
+
+
+
+
+
+    <string name="btn_new_sale">Registrar nueva venta</string>
+    <string name="tv_client">Cliente</string>
+    <string name="tv_total">Total</string>
+    <string name="tv_date">Fecha</string>
+
+
+
+
+    <string name="msg_fill_all_fields">Por favor complete todos los campos</string>
+    <string name="msg_sale_added">Venta registrada correctamente</string>
+</resources>

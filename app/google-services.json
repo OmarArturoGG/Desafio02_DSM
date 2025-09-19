@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "682673477288",
+    "firebase_url": "https://mg220764-40514-default-rtdb.firebaseio.com",
+    "project_id": "mg220764-40514",
+    "storage_bucket": "mg220764-40514.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682673477288:android:5a37845cbf5028c790d49d",
+        "android_client_info": {
+          "package_name": "com.example.desafio02"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6Ne5VL8dYpttWIwVIbhyYsViCfbmxrzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682673477288:android:0b149e77a3f5a42190d49d",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6Ne5VL8dYpttWIwVIbhyYsViCfbmxrzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682673477288:android:c2240e74741d690e90d49d",
+        "android_client_info": {
+          "package_name": "com.example.guia08app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6Ne5VL8dYpttWIwVIbhyYsViCfbmxrzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

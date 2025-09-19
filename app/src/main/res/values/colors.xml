@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="primary_color">#009688</color>
+    <color name="primary_dark">#00796B</color>
+    <color name="accent_color">#FFC107</color>
+    <color name="background_light">#FAFAFA</color>
+    <color name="item_background">#EEEEEE</color>
+
+    <color name="background_color">#FAFAFA</color>
+    <color name="button_color">#009688</color>
+    <color name="button_text_color">#FFFFFF</color>
+
+    <color name="item_product_background">#EEEEEE</color>
+    <color name="product_price_color">#009688</color>
+    <color name="item_sale_background">#FFEECC</color>
+
+
+
+</resources>

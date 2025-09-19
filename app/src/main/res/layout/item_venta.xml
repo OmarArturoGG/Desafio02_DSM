@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="12dp"
+    android:background="@color/item_sale_background"
+    android:layout_marginBottom="8dp">
+
+    <TextView
+        android:id="@+id/tvClienteVenta"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/sale_client"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/tvTotalVenta"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/sale_total"/>
+
+    <TextView
+        android:id="@+id/tvFechaVenta"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/sale_date"/>
+</LinearLayout>
+
