@@ -15,6 +15,7 @@ class AgregarProductoActivity : AppCompatActivity() {
     private lateinit var etNombre: EditText
     private lateinit var etDescripcion: EditText
     private lateinit var etPrecio: EditText
+    private lateinit var etStock: EditText
     private lateinit var btnGuardar: Button
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -24,6 +25,7 @@ class AgregarProductoActivity : AppCompatActivity() {
         etNombre = findViewById(R.id.etNombre)
         etDescripcion = findViewById(R.id.etDescripcion)
         etPrecio = findViewById(R.id.etPrecio)
+        etStock = findViewById(R.id.etStock)
         btnGuardar = findViewById(R.id.btnGuardar)
 
         btnGuardar.setOnClickListener {
@@ -35,6 +37,7 @@ class AgregarProductoActivity : AppCompatActivity() {
         val nombre = etNombre.text.toString()
         val descripcion = etDescripcion.text.toString()
         val precio = etPrecio.text.toString().toDoubleOrNull()
+        val etStock = etStock.text.toString().toDoubleOrNull()
 
         if (nombre.isEmpty() || descripcion.isEmpty() || precio == null) {
             Toast.makeText(this, "Completa todos los campos", Toast.LENGTH_SHORT).show()

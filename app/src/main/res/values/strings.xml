@@ -25,6 +25,7 @@
     <string name="product_name">Nombre del producto</string>
     <string name="product_description">Descripción</string>
     <string name="product_price">Precio</string>
+    <string name="product_Stock">stock</string>
 
 
 

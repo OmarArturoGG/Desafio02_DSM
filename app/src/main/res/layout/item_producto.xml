@@ -30,5 +30,11 @@
         android:textSize="16sp"
         android:textColor="@color/product_price_color" />
 
+    <TextView
+        android:id="@+id/tvStock"
+        android:layout_width="52dp"
+        android:layout_height="wrap_content"
+        android:text="@string/product_Stock"
+        android:textSize="14sp" />
 </LinearLayout>
 

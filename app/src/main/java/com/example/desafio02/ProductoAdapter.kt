@@ -15,6 +15,7 @@ class ProductoAdapter(private val listaProductos: List<Producto>) :
         val tvNombre: TextView = itemView.findViewById(R.id.tvNombre)
         val tvDescripcion: TextView = itemView.findViewById(R.id.tvDescripcion)
         val tvPrecio: TextView = itemView.findViewById(R.id.tvPrecio)
+        val tvStock: TextView = itemView.findViewById(R.id.tvStock)
     }
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ProductoViewHolder {
@@ -27,6 +28,7 @@ class ProductoAdapter(private val listaProductos: List<Producto>) :
         holder.tvNombre.text = producto.nombre
         holder.tvDescripcion.text = producto.descripcion
         holder.tvPrecio.text = "$${producto.precio}"
+        holder.tvStock.text = "Stock: ${producto.stock}"
     }
 
     override fun getItemCount(): Int {
