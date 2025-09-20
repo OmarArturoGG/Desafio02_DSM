@@ -15,5 +15,17 @@
 
 Repositorio para para el desafio numero 2 de DSM.
 
+Integrantes: 
+
+Omar Arturo Maldonado Guzmán MG220764
+
+
+Levi Asael Palacios Méndez PM241595
+
+
+Diego Alberto Canizalez Galán CG232300
+
+link del video:
+
 
 ![Demo App](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
