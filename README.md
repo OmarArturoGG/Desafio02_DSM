@@ -25,7 +25,7 @@ Levi Asael Palacios Méndez PM241595
 
 Diego Alberto Canizalez Galán CG232300
 
-link del video: https://drive.google.com/file/d/1GFJ2K1GR7L7sbyocrlJQ7ZRJNkzFtJv6/view?usp=drive_link
+link del video: https://drive.google.com/file/d/1934p_NGTpIaC--vVQAcXFLAd8xgtKA5R/view?usp=drive_link
 
 
 ![Demo App](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
